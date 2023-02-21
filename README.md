@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://achanty.github.io/Frontend-Mentor---Results-summary-component/)
+- Live Site URL: [https://achanty.github.io/Frontend-Mentor---Results-summary-component/](https://achanty.github.io/Frontend-Mentor---Results-summary-component/)
 
 ## My process
 
