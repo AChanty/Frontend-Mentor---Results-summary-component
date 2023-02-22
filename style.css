@@ -214,7 +214,7 @@ body {
     font-size: 1em;
 }
 
-@media screen and (min-width: 376px) {
+@media screen and (min-width: 740px) {
     body {
         height: 100vh;
         display: flex;
